@@ -1,4 +1,4 @@
-<h1><img width="64" height="64" src="resources/icon.png"/> Minimal-Blue And Minimal-Black Themes<h1>
+<h1><img width="64" height="64" src="resources/icon.png"/> Minimal-Blue And Minimal-Black Themes</h1>
 
 A very lite-weight, quick to render and compatible with every screen-size,<br/>
 any resolution and any pixel-density<br/>
