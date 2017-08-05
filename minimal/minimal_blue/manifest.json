@@ -1,0 +1,44 @@
+{ "manifest_version"        : 2
+, "minimum_chrome_version"  : "28.0"
+
+, "default_locale"          : "en_US"
+, "name"                    : "__MSG_name_long__"
+, "short_name"              : "__MSG_name_shrt__"
+, "description"             : "__MSG_name_desc__"
+
+, "version"                 : "1.0.0.1"
+, "homepage_url"            : "https://github.com/eladkarako/Chrome-Theme/"
+, "author"                  : "Elad Karako"
+,"icons"                    : { "512": "resources/icon.png" }
+
+, "theme"                   : { "images"     :  { "theme_frame"                      : {}
+                                                , "theme_frame_inactive"             : {}
+                                                , "theme_frame_incognito"            : {}
+                                                , "theme_frame_incognito_inactive"   : {}
+                                                , "theme_tab_background"             : {}
+                                                , "theme_tab_background_incognito"   : {}
+                                                , "theme_tab_background_v"           : {}
+                                                , "theme_ntp_background"             : {}
+                                                , "theme_frame_overlay"              : {}
+                                                , "theme_frame_overlay_inactive"     : {}
+                                                , "theme_button_background"          : {}
+                                                , "theme_ntp_attribution"            : {}
+                                                , "theme_window_control_background"  : {}
+                                                }
+                              , "properties" :  { "ntp_background_alignment"         : "bottom"
+                                                , "ntp_background_repeat"            : "no-repeat"
+                                                , "ntp_logo_alternate"               : 0
+                                                } 
+                              , "colors"     :  {
+                                                  "frame"                            : [ 66, 116, 201, 1]
+                                                , "frame_inactive"                   : [152, 188, 233, 1]
+                                                }
+                                                , "tints"                            : { "background_tab"           : [  0,   0,   0]
+                                                                                       , "buttons"                  : [  0,   0,   0]
+                                                                                       , "frame"                    : [  0,   0,   0]
+                                                                                       , "frame_inactive"           : [  0,   0,   0]
+                                                                                       , "frame_incognito"          : [  0,   0,   0]
+                                                                                       , "frame_incognito_inactive" : [  0,   0,   0]
+                                                                                       }
+                              }
+}
