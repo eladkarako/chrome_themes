@@ -23,4 +23,4 @@ the black theme, has a small addition:
 You should compile to CRX using Chrome developer-mode.br</>
 installation is done by drag&drop over the <code>chrome://extensions</code> tab.<br/>
 
-You can tryout the themes by downloading either one from the <code>__BINARY__</code> folder.
+You can tryout the themes by downloading either one from the <code>&#x005F;&#x005F;BINARY&#x005F;&#x005F;</code> folder.
